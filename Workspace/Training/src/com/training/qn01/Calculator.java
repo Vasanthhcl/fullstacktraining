@@ -1,3 +1,4 @@
+package com.training.qn01;
 import java.util.Scanner;
 
 public class Calculator {
